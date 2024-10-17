@@ -144,4 +144,9 @@ h2{
         padding: 50px;
     }
 
+    .body-between .body-between-contents h1{
+        max-width: 24vh;
+    }
+
+
 }
